@@ -1,0 +1,74 @@
+{
+    "freddie": {
+        "role": "singer",
+        "intro": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
+        "table": {
+            "headers": {
+                "born": "nascita",
+                "death": "morte",
+                "height": "altezza",
+                "parents": "genitori"
+            },
+            "content": {
+                "born": "5 settembre 1946, Stone Town, Tanzania",
+                "death": "24 novembre 1991, Kensington, Londra, Regno Unito",
+                "height": "1,77 m",
+                "parents": "Jer Bulsara, Bomi Bulsara"
+            }
+        }
+    },
+    "brian": {
+        "role": "chitarrista",
+        "intro": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
+        "table": {
+            "headers": {
+                "born": "nascita",
+                "death": "morte",
+                "height": "altezza",
+                "parents": "genitori"
+            },
+            "content": {
+                "born": "5 settembre 1946, Stone Town, Tanzania",
+                "death": "24 novembre 1991, Kensington, Londra, Regno Unito",
+                "height": "1,77 m",
+                "parents": "Jer Bulsara, Bomi Bulsara"
+            }
+        }
+    },
+    "roger": {
+        "role": "batterista",
+        "intro": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
+        "table": {
+            "headers": {
+                "born": "nascita",
+                "death": "morte",
+                "height": "altezza",
+                "parents": "genitori"
+            },
+            "content": {
+                "born": "5 settembre 1946, Stone Town, Tanzania",
+                "death": "24 novembre 1991, Kensington, Londra, Regno Unito",
+                "height": "1,77 m",
+                "parents": "Jer Bulsara, Bomi Bulsara"
+            }
+        }
+    },
+    "john": {
+        "role": "bassista",
+        "intro": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
+        "table": {
+            "headers": {
+                "born": "nascita",
+                "death": "morte",
+                "height": "altezza",
+                "parents": "genitori"
+            },
+            "content": {
+                "born": "5 settembre 1946, Stone Town, Tanzania",
+                "death": "24 novembre 1991, Kensington, Londra, Regno Unito",
+                "height": "1,77 m",
+                "parents": "Jer Bulsara, Bomi Bulsara"
+            }
+        }
+    }
+}
