@@ -1,7 +1,7 @@
 {
-    "freddie": {
+    "cornercard": {
         "role": "singer",
-        "intro": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
+        "intro": "Cornercard Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
         "table": {
             "headers": {
                 "born": "nascita",
@@ -17,9 +17,9 @@
             }
         }
     },
-    "brian": {
+    "social": {
         "role": "chitarrista",
-        "intro": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
+        "intro": "Cornercard Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
         "table": {
             "headers": {
                 "born": "nascita",
@@ -35,9 +35,9 @@
             }
         }
     },
-    "roger": {
+    "emotions": {
         "role": "batterista",
-        "intro": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
+        "intro": "Cornercard Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
         "table": {
             "headers": {
                 "born": "nascita",
@@ -53,9 +53,9 @@
             }
         }
     },
-    "john": {
+    "more": {
         "role": "bassista",
-        "intro": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
+        "intro": "Cornercard Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore, musicista e compositore britannico di originiparsi",
         "table": {
             "headers": {
                 "born": "nascita",

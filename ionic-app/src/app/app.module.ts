@@ -3,10 +3,10 @@ import { BrowserModule } from '@angular/platform-browser';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
 
-import { FreddiePage } from '../pages/freddie/freddie';
-import { BrianPage } from '../pages/brian/brian';
-import { RogerPage } from '../pages/roger/roger';
-import { JohnPage } from '../pages/john/john';
+import { CornercardPage } from '../pages/cornercard/cornercard';
+import { SocialPage } from '../pages/social/social';
+import { EmotionsPage } from '../pages/emotions/emotions';
+import { MorePage } from '../pages/more/more';
 import { TabsPage } from '../pages/tabs/tabs';
 
 import { StatusBar } from '@ionic-native/status-bar';
@@ -24,10 +24,10 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
 @NgModule({
   declarations: [
     MyApp,
-    BrianPage,
-    RogerPage,
-    FreddiePage,
-    JohnPage,
+    SocialPage,
+    EmotionsPage,
+    CornercardPage,
+    MorePage,
     TabsPage
   ],
   imports: [
@@ -45,10 +45,10 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    BrianPage,
-    RogerPage,
-    FreddiePage,
-    JohnPage,
+    SocialPage,
+    EmotionsPage,
+    CornercardPage,
+    MorePage,
     TabsPage
   ],
   providers: [

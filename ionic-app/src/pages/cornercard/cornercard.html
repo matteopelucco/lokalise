@@ -1,44 +1,23 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>
-      Cornèrcard
-    </ion-title>
+    <ion-title>Cornèrcard</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-
-    <img src="assets/imgs/freddie.png" />
-
   <ion-card padding>
 
-    <br />
+    <ion-slides loop="true" style="background-color: transparent;" effect="coverflow" slidesPerView="2" centeredSlides="true" parallax="false">
+      <ion-slide *ngFor="let image of [1,2,3,4,5]">
+        <img data-src="../assets/img/slide{{image}}.jpeg">
+      </ion-slide>
+    </ion-slides>
 
-    <h1>Panoramica</h1>
-    <h3>Dai una rapitda occhiata alle tue carte</h3>
+    <div class="arrow_box" style="margin-top: 40px">
 
-    <div>
-        <p>Carta1</p>
-      </div>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fringilla, erat in consectetur elementum, velit arcu pellentesque ligula, vel hendrerit ex augue a ligula. Phasellus nulla lorem, laoreet in justo non, suscipit cursus tellus. Vivamus rutrum sapien cursus, vestibulum arcu dapibus, fringilla urna. Nulla porta eu purus eget imperdiet. Etiam rhoncus dolor eget dictum euismod. Cras ut orci a risus efficitur rutrum. Aliquam nec mollis sem, sit amet dapibus sapien. Etiam diam sapien, lobortis sit amet tempor vel, molestie a leo. Vestibulum ornare blandit tortor ac tristique. Suspendisse condimentum feugiat metus in efficitur. Integer nunc risus, elementum eu molestie in, ultrices nec est.
 
-      <div>
-          <p>Carta2</p>
-        </div>
-
-    <br />
-
-    <p>{{ 'freddie.intro' | translate }}</p>
-
-    <br />
-    <br />
-    
-    <p><strong>{{ 'freddie.table.headers.born' | translate }}: </strong>{{ 'freddie.table.content.born' | translate }}</p>
-    <p><strong>{{ 'freddie.table.headers.death' | translate }}: </strong>{{ 'freddie.table.content.death' | translate }}</p>
-    <p><strong>{{ 'freddie.table.headers.height' | translate }}: </strong>{{ 'freddie.table.content.height' | translate }}</p>
-    <p><strong>{{ 'freddie.table.headers.parents' | translate }}: </strong>{{ 'freddie.table.content.parents' | translate }}</p>
+    </div>
 
   </ion-card>
-
-
-
 </ion-content>
