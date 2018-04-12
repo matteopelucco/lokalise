@@ -1,0 +1,59 @@
+{
+    "tabs": {
+        "tab1.title": "",
+        "tab2.title": "",
+        "tab3.title": "",
+        "tab4.title": ""
+    },
+    "cornercard": {
+        "title": "",
+        "detail": {
+            "statement_unit": "",
+            "effective_balance": "",
+            "latest_x_transactions": "",
+            "more_details": ""
+        }
+    },
+    "social": {
+        "title": "",
+        "post": {
+            "likes": "",
+            "comments": "",
+            "has_shared_post_of": ""
+        }
+    },
+    "emotions": {
+        "title": "",
+        "post.1": {
+            "title": "",
+            "subtitle": "",
+            "badge": ""
+        },
+        "post.2": {
+            "title": "",
+            "subtitle": "",
+            "badge": ""
+        },
+        "post.3": {
+            "title": "",
+            "subtitle": "",
+            "badge": ""
+        },
+        "post.4": {
+            "title": "",
+            "subtitle": "",
+            "badge": ""
+        }
+    },
+    "more": {
+        "title": "",
+        "settings": {
+            "title": "",
+            "ask_for_a_pin": "",
+            "apple_pay": "",
+            "ask_to_a_consultant": "",
+            "questions_and_answers": "",
+            "info": ""
+        }
+    }
+}
